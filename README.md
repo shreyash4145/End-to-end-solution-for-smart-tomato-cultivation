@@ -31,12 +31,6 @@ graph TD;
     Disease_Prediction -->|Sends Alerts| Mobile_App;
 ```
 
-## 📸 Screenshots
-🔹 **Real-time Monitoring Dashboard**  
-![Dashboard](https://via.placeholder.com/600x300.png?text=Dashboard+Preview)  
-🔹 **Disease Detection Output**  
-![Prediction](https://via.placeholder.com/600x300.png?text=Disease+Detection+Preview)  
-
 ## ⚙️ Installation & Setup
 1. **Clone the repository:**
    ```sh
@@ -61,17 +55,7 @@ graph TD;
 🔹 AI-powered **crop yield prediction**  
 🔹 **Automated irrigation control** based on soil moisture levels  
 🔹 Blockchain-based **supply chain tracking**  
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repo, create a branch, and submit a PR.  
-For major changes, please open an issue first.
-
-## 📄 License
-This project is licensed under the **MIT License**.
-
-## 📞 Contact
-For any queries or collaboration opportunities, reach out to:  
-📧 **shreyash4145@example.com**  
+ 
 🔗 [GitHub Profile](https://github.com/shreyash4145)  
 
 ---
